@@ -23,9 +23,9 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-repository: insolor.github.io/atmyre
-url: https://insolor.github.io/atmyre
-baseurl: /atmyre
+repository: atmyre.github.io
+url: https://atmyre.github.io
+baseurl: /
 
 # Build settings
 markdown: kramdown
