@@ -89,6 +89,7 @@ footer:
       url: "https://instagram.com/"
 
 languages: ["en", "ru"]
+exclude_from_localizations: ["javascript", "images", "css"]
 
 defaults:
   # _posts
