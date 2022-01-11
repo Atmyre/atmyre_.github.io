@@ -88,6 +88,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+languages: ["en", "ru"]
+
 defaults:
   # _posts
   - scope:
