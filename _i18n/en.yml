@@ -1,3 +1,11 @@
 langs:
   en: English
   ru: Русский
+navbar:
+  posts: Posts
+  categories: Categories
+  tags: Tags
+  about: About
+
+global:
+  recent-posts: Recent Posts

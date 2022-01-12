@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: navbar.posts
     url: /posts/
-  - title: "Categories"
+  - title: navbar.categories
     url: /categories/
-  - title: "Tags"
+  - title: navbar.tags
     url: /tags/
-  - title: "About"
+  - title: navbar.about
     url: /about/
