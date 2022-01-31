@@ -62,7 +62,7 @@ plugins:
   - jekyll-multiple-languages-plugin
 
 author:
-  name   : "First Lastname"
+  name   : "Tatiana Gaintseva"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Deep Learning researcher, teacher, AI enthusiast & blogger"
   links:
@@ -76,13 +76,13 @@ author:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/tgaintseva"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/atmyre"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-instagram"
       url: "https://instagram.com/atmyre"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/atmyree"
 
 footer:
