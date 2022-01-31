@@ -23,6 +23,9 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+repository: Atmyre/atmyre.github.io
+url: https://atmyre.github.io
+baseurl: ""
 
 # Build settings
 markdown: kramdown
