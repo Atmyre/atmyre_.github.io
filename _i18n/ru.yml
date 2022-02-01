@@ -1,3 +1,15 @@
 langs:
   en: English
   ru: Русский
+
+navbar:
+  posts: Блог
+  categories: Категории
+  tags: Тэги
+  about: О сайте
+
+global:
+  About: О сайте
+  "Posts by Year": Записи по годам
+  "Posts by Category": Записи по категории
+  "Posts by Tag": Записи по тэгам
