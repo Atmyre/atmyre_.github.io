@@ -14,8 +14,6 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         
-        {% include languages.html %}
-
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
@@ -23,6 +21,9 @@
             </li>
           {%- endfor -%}
         </ul>
+
+        {% include languages.html %}
+        
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.lang].search_label | default: "Toggle search" }}</span>
