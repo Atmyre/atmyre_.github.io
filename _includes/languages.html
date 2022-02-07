@@ -1,13 +1,16 @@
-<!-- Adds links to other languages on the post -->
-{% for lang in site.languages %}
-    {% unless site.lang == lang %}
+<ul>
+  <li>
+    <a href="#"><i class="fas fa-globe"></i></a>
+    <ul>
+      {% for lang in site.languages %}
         <li>
-            {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
-                <a href="{{ site.baseurl_root }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
-            {% else %}
-                <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
-            {% endif %}
+          {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
+            <a href="{{ site.baseurl_root }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
+          {% else %}
+            <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
+          {% endif %}
         </li>
-        {% assign next = forloop.index | plus: 1 %}
-    {% endunless %}
-{% endfor %}
+      {% endfor %}
+    </ul>
+  </li>
+</ul>
