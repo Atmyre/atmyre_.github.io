@@ -1,0 +1,11 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign podcasts = site.data.podcasts.main %}
+
+{% for podcast in podcasts %}
+<iframe frameborder="0" style="border:none;width:100%;height:180px;" width="100%" height="180" src="https://music.yandex.ru/iframe/#track/{{ podcast.track }}/{{ podcast.album }}">Слушайте <a href='https://music.yandex.ru/album/{{ podcast.album }}/track/{{ podcast.track }}'>{{ podcast.title }}</a> на Яндекс.Музыке</iframe>
+{% endfor %}
