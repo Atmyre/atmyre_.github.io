@@ -6,6 +6,8 @@ navbar:
   posts: Posts
   categories: Categories
   tags: Tags
+  videos: Videos
+  podcasts: Podcasts
   about: About
 
 global:
