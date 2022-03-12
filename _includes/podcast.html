@@ -18,7 +18,11 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
-      {{ title }}
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        {{ title }}
+      {% endif %}
     </h2>
     <iframe frameborder="0" style="border:none;width:100%;height:70px;" width="100%" height="70" src="https://music.yandex.ru/iframe/#track/{{ post.track }}/{{ post.album }}">Слушайте <a href='https://music.yandex.ru/album/{{ post.album }}/track/{{ post.track }}'>{{ title }}</a> на Яндекс.Музыке</iframe>
 
