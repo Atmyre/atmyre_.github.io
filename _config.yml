@@ -139,6 +139,6 @@ collections:
   - videos
 
 analytics:
-  - provider: "google-gtag"
-  - google:
-      tracking_id: "G-5VPDX7B5JY"
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-5VPDX7B5JY"
