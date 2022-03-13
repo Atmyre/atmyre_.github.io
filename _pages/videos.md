@@ -69,5 +69,5 @@ author_profile: true
 
 <a name="yandex-ml-training"/>
 
-[Решение второго места соревнования Machines Can See 2018](https://youtu.be/zNTRmIoPLns)
-[GitHub с кодом решения](https://github.com/Atmyre/MCS2018_Solution) 
+- [Решение второго места соревнования Machines Can See 2018](https://youtu.be/zNTRmIoPLns) <br />
+  [GitHub с кодом решения](https://github.com/Atmyre/MCS2018_Solution) 
