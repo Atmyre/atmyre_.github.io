@@ -137,3 +137,8 @@ tag_archive:
 collections:
   - podcasts
   - videos
+
+analytics:
+  - provider: "google-gtag"
+  - google:
+      tracking_id: "G-5VPDX7B5JY"
