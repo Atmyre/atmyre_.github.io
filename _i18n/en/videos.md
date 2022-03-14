@@ -21,17 +21,21 @@ Educational videos on different aspects of deep learning
 <a name="cnn"/>
 
 ## Convolutional Neural Networks
-
 - [Lecture at dlschool.org: A history behind convolutional neural networks.](https://youtu.be/Xq76hQHCkvQ)
 - [Lecture at dlschool.org: Convolution operation and CNN architecture.](https://youtu.be/HpKGv-kYurk)
 - [Lecture at dlschool.org: Pooling operation.](https://youtu.be/IxLuPHtZBTY)
 - [Lecture at dlschool.org: Computer vision tasks.](https://youtu.be/3IPRcBIsgNA)
 - [Lecture at dlschool.org: CNN Architectures (ResNet, DenseNet, etc.)](https://youtu.be/TcUPuKpIlhQ)
 
+- [Lecture at "Future practics Bootcamp": CNN architecture & pooling](https://youtu.be/xKNmEKA-BH8)
+- [Lecture & practical seminar at "Future practics Bootcamp": CNN training and CNN architectures](https://youtu.be/ThNWPwil_lk)
+
 <a name="transfer_learning"/>
 
 ## Transfer Learning
 - [Lecture at dlschool.org: Transfer Learning.](https://youtu.be/oLpREso27Zw)
+
+- [Lecture & practical seminar at "Future practics Bootcamp": Transfer Learning](https://youtu.be/ShtEhvxcWss)
 
 <a name="segmentation"/>
 
