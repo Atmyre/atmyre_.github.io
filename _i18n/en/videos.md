@@ -20,7 +20,7 @@ Educational videos on different aspects of deep learning
 
 <a name="cnn"/>
 
-## Convolutional Neural Networks
+### Convolutional Neural Networks
 Lectures at [DLSchool](dlschool.org):
 - [rus] [A history behind convolutional neural networks.](https://youtu.be/Xq76hQHCkvQ)
 - [rus] [Convolution operation and CNN architecture.](https://youtu.be/HpKGv-kYurk)
@@ -35,7 +35,7 @@ Lectures & practical seminars at [Practicing Futures Bootcamp](https://practicin
 
 <a name="transfer_learning"/>
 
-## Transfer Learning
+### Transfer Learning
 Lectures at [DLSchool](dlschool.org):
 - [rus] [Transfer Learning.](https://youtu.be/oLpREso27Zw)
 
@@ -44,7 +44,7 @@ Lectures & practical seminars at [Practicing Futures Bootcamp](https://practicin
 
 <a name="segmentation"/>
 
-## Semantic Segmentation
+### Semantic Segmentation
 Lectures at [DLSchool](dlschool.org):
 - [rus] [Semantic Segmentation. Introduction.](https://youtu.be/awgMvmJQUF0)
 - [rus] [Semantic Segmentation. Architecture tricks.](https://youtu.be/K73tZxH9nvE)
@@ -55,20 +55,20 @@ Lectures & practical seminars at [Practicing Futures Bootcamp](https://practicin
 
 <a name="language_modeling"/>
 
-## Language modeling
+### Language modeling
 Lectures at [DLSchool](dlschool.org):
 - [rus] [Language modeling. Introduction. Statistical approach.](https://youtu.be/aS2A7b-4uT4)
 - [rus] [Language modeling. Neural Networks.](https://youtu.be/-tK7WcE5Wfo)
 
 <a name="mt"/>
 
-## Seq2Seq Architecture, Machine Translation
+### Seq2Seq Architecture, Machine Translation
 Lectures at [DLSchool](dlschool.org):
 - [rus] [Seq2Seq. Machine Translation.](https://youtu.be/N3TLYsn0TU8)
 
 <a name="attention"/>
 
-## Attention
+### Attention
 Lectures at [DLSchool](dlschool.org):
 - [rus] [Attention](https://youtu.be/G4vT5cvJSxY)
 
