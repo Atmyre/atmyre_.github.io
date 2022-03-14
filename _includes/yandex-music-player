@@ -1,0 +1,1 @@
+<iframe frameborder="0" style="border:none;width:100%;height:70px;" width="100%" height="70" src="https://music.yandex.ru/iframe/#track/{{ include.track }}/{{ include.album }}">Слушайте <a href='https://music.yandex.ru/album/{{ include.album }}/track/{{ include.track }}'>{{ include.title }}</a> на Яндекс.Музыке</iframe>
