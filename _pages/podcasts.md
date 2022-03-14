@@ -1,5 +1,5 @@
 ---
-<!-- title: "Podcasts" -->
+title: "Deep Learning Stories Podcast"
 permalink: /podcasts/
 author_profile: true
 ---
