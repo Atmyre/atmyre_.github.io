@@ -22,51 +22,55 @@ Educational videos on different aspects of deep learning
 
 ## Convolutional Neural Networks
 Lectures at [DLSchool](dlschool.org):
-- [A history behind convolutional neural networks.](https://youtu.be/Xq76hQHCkvQ)
-- [Convolution operation and CNN architecture.](https://youtu.be/HpKGv-kYurk)
-- [Pooling operation.](https://youtu.be/IxLuPHtZBTY)
-- [Computer vision tasks.](https://youtu.be/3IPRcBIsgNA)
-- [CNN Architectures (ResNet, DenseNet, etc.)](https://youtu.be/TcUPuKpIlhQ)
+- [rus] [A history behind convolutional neural networks.](https://youtu.be/Xq76hQHCkvQ)
+- [rus] [Convolution operation and CNN architecture.](https://youtu.be/HpKGv-kYurk)
+- [rus] [Pooling operation.](https://youtu.be/IxLuPHtZBTY)
+- [rus] [Computer vision tasks.](https://youtu.be/3IPRcBIsgNA)
+- [rus] [CNN Architectures (ResNet, DenseNet, etc.)](https://youtu.be/TcUPuKpIlhQ)
 
 Lectures & practical seminars at [Practicing Futures Bootcamp](https://practicingfutures.org):
-- [CNN architecture & pooling](https://youtu.be/xKNmEKA-BH8)(theory)
-- [CNN training and CNN architectures](https://youtu.be/ThNWPwil_lk)(theory & practice)
+- [rus] [CNN architecture & pooling](https://youtu.be/xKNmEKA-BH8)(theory)
+- [rus] [CNN training and CNN architectures](https://youtu.be/ThNWPwil_lk)(theory & practice)
+- [rus] [CNN architectures and CV tasks](https://youtu.be/uezEoNKGAhs)(theory)
 
 <a name="transfer_learning"/>
 
 ## Transfer Learning
 Lectures at [DLSchool](dlschool.org):
-- [Transfer Learning.](https://youtu.be/oLpREso27Zw)
+- [rus] [Transfer Learning.](https://youtu.be/oLpREso27Zw)
 
 Lectures & practical seminars at [Practicing Futures Bootcamp](https://practicingfutures.org):
-- [Transfer Learning](https://youtu.be/ShtEhvxcWss)(theory & practice)
+- [rus] [Transfer Learning](https://youtu.be/ShtEhvxcWss)(theory & practice)
 
 <a name="segmentation"/>
 
 ## Semantic Segmentation
 Lectures at [DLSchool](dlschool.org):
-- [Semantic Segmentation. Introduction.](https://youtu.be/awgMvmJQUF0)
-- [Semantic Segmentation. Architecture tricks.](https://youtu.be/K73tZxH9nvE)
-- [Semantic Segmentation. U-Net Architecture](https://youtu.be/yEuIV5FsRMs)
+- [rus] [Semantic Segmentation. Introduction.](https://youtu.be/awgMvmJQUF0)
+- [rus] [Semantic Segmentation. Architecture tricks.](https://youtu.be/K73tZxH9nvE)
+- [rus] [Semantic Segmentation. U-Net Architecture](https://youtu.be/yEuIV5FsRMs)
+
+Lectures & practical seminars at [Practicing Futures Bootcamp](https://practicingfutures.org):
+- [rus] [Semantic Segmentation](https://youtu.be/t8jY7X7_YWc)(practice)
 
 <a name="language_modeling"/>
 
 ## Language modeling
 Lectures at [DLSchool](dlschool.org):
-- [Language modeling. Introduction. Statistical approach.](https://youtu.be/aS2A7b-4uT4)
-- [Language modeling. Neural Networks.](https://youtu.be/-tK7WcE5Wfo)
+- [rus] [Language modeling. Introduction. Statistical approach.](https://youtu.be/aS2A7b-4uT4)
+- [rus] [Language modeling. Neural Networks.](https://youtu.be/-tK7WcE5Wfo)
 
 <a name="mt"/>
 
 ## Seq2Seq Architecture, Machine Translation
 Lectures at [DLSchool](dlschool.org):
-- [Seq2Seq. Machine Translation.](https://youtu.be/N3TLYsn0TU8)
+- [rus] [Seq2Seq. Machine Translation.](https://youtu.be/N3TLYsn0TU8)
 
 <a name="attention"/>
 
 ## Attention
 Lectures at [DLSchool](dlschool.org):
-- [Attention](https://youtu.be/G4vT5cvJSxY)
+- [rus] [Attention](https://youtu.be/G4vT5cvJSxY)
 
 <a name="выступления"/>
 
@@ -76,5 +80,5 @@ Links to public speeches I've made
 
 <a name="yandex-ml-training"/>
 
-- [A solution for 2nd place on Machines Can See 2018 competition](https://youtu.be/zNTRmIoPLns) <br />
+- [rus] [A solution for 2nd place on Machines Can See 2018 competition](https://youtu.be/zNTRmIoPLns) <br />
   [Code on GitHub GitHub](https://github.com/Atmyre/MCS2018_Solution) 
