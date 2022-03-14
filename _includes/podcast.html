@@ -24,7 +24,7 @@
         {{ title }}
       {% endif %}
     </h2>
-    <iframe frameborder="0" style="border:none;width:100%;height:70px;" width="100%" height="70" src="https://music.yandex.ru/iframe/#track/{{ post.track }}/{{ post.album }}">Слушайте <a href='https://music.yandex.ru/album/{{ post.album }}/track/{{ post.track }}'>{{ title }}</a> на Яндекс.Музыке</iframe>
+    {% include yandex-music-player track=post.track album=post.album title=post.title %}
 
     {% include page__meta.html type=include.type %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %}
