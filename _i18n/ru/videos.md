@@ -20,7 +20,7 @@
 
 <a name="cnn"/>
 
-## Сверточные нейросети
+### Сверточные нейросети
 Лекции в [DLSchool](dlschool.org):
 - [rus] [История развития сверточных нейронных сетей](https://youtu.be/Xq76hQHCkvQ)
 - [rus] [Сверточные нейронные сети](https://youtu.be/HpKGv-kYurk)
@@ -35,7 +35,7 @@
 
 <a name="transfer_learning"/>
 
-## Transfer Learning
+### Transfer Learning
 Лекции в [DLSchool](dlschool.org):
 - [rus] [Transfer Learning](https://youtu.be/oLpREso27Zw)
 
@@ -44,7 +44,7 @@
 
 <a name="segmentation"/>
 
-## Сегментация
+### Сегментация
 Лекции в [DLSchool](dlschool.org):
 - [rus] [Семантическая сегментация. Введение](https://youtu.be/awgMvmJQUF0)
 - [rus] [Семантическая сегментация. Трюки](https://youtu.be/K73tZxH9nvE)
@@ -55,20 +55,20 @@
 
 <a name="language_modeling"/>
 
-## Языклвые модели
+### Языклвые модели
 Лекции в [DLSchool](dlschool.org):
 - [rus] [Языковые модели. Введение. Частотный подход](https://youtu.be/aS2A7b-4uT4)
 - [rus] [Языковые модели. Нейронные сети](https://youtu.be/-tK7WcE5Wfo)
 
 <a name="mt"/>
 
-## Архитектура Seq2Seq, Машинный перевод
+### Архитектура Seq2Seq, Машинный перевод
 Лекции в [DLSchool](dlschool.org):
 - [rus] [Seq2Seq. Машинный перевод](https://youtu.be/N3TLYsn0TU8)
 
 <a name="attention"/>
 
-## Attention (механизм внимания)
+### Attention (механизм внимания)
 Лекции в [DLSchool](dlschool.org):
 - [rus] [Attention](https://youtu.be/G4vT5cvJSxY)
 
