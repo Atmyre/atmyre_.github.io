@@ -11,9 +11,9 @@ Links to the podcast on different platforms:
 - [YouTube](https://www.youtube.com/playlist?list=PL0Ks75aof3Th1_o6VWYzIIaEl2L_g0kg5)
 
 Eposodes:
-- 01. [Discussion about interviews on DL research positions with Alexander Petiushko](#01)
-- 02. [DL research in medical domain, career and DL research positions interviews with Irina Fedulova](#02)
-- 03. [Quantum computing and AI startup with Polina Belozerova](#03)
+1. [Discussion about interviews on DL research positions with Alexander Petiushko](#01)
+2. [DL research in medical domain, career and DL research positions interviews with Irina Fedulova](#02)
+3. [Quantum computing and AI startup with Polina Belozerova](#03)
 
 -----------
 
@@ -21,7 +21,7 @@ Eposodes:
 
 ### 01. Discussion about interviews on DL research positions with Alexander Petiushko
 
-In this episode we discuss job interviews on DL research positions. Guest of the episode is Alexander Petiushko — Ph.D. (MSU University), Tech Lead Manager in Nuro, lecturer at ML/BigData programme in MSU.
+In this episode we discuss job interviews on DL research positions. Guest of the episode is Alexander Petiushko — Ph.D. ([MSU University](https://www.msu.ru/en/)), Tech Lead Manager in [Nuro](https://www.nuro.ai), lecturer at ML/BigData programme in [MSU](https://www.msu.ru/en/).
 
 Alexander's site: <https://petiushko.info/>
 
@@ -52,7 +52,7 @@ This episode on other platforms:
 
 ### 02. DL research in medical domain, career and interviews in DL research with Irina Fedulova.
 
-This episode guest is Irina Fedulova, head of Philips AI research lab in Russia. Philips is a company specialising on medical equipment, and Philips AI lab conducts research in application to the medical domain.
+This episode guest is Irina Fedulova, head of [Philips AI research lab](https://www.philips.ru/a-w/about-philips/research-moscow.html) in Russia. Philips is a company specialising on medical equipment, and Philips AI lab conducts research in application to the medical domain.
 
 With Irina we've discussed:
 - features of DL research in the field of medicine;
@@ -80,7 +80,7 @@ This episode on other platforms:
 
 ### 03. Quantum computing and AI startup with Polina Belozerova
 
-Guest of the episode is Polina Belozerova: Ph.D. student at MIPT, quantum computing researcher and head of the research and innovation department at Sber. Besides, Pilina has a startup in beauty industry. 
+Guest of the episode is Polina Belozerova: Ph.D. student at [MIPT](https://mipt.ru/english/), quantum computing researcher and head of the research and innovation department at Sber. Besides, Pilina has a startup [BeautyGuard.ai](BeautyGuard.ai) in beauty industry. 
 
 Listen about all that in this episode of the podcast:
 - What quantum computing is about;
