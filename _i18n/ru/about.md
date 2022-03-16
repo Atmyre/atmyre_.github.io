@@ -52,23 +52,16 @@ During my internship I developed large-scale hierarchical graph clustering algor
 services graphs representations
 </details>
 
-<details><summary>Developer-researcher intern, <strong>Yandex</strong>, 2019</summary>
+<details><summary>Developer-researcher intern, <strong>Yandex</strong>, 2017</summary>
 During my internship I applied RL ti different metrics to seq2seq vocalization task. Combined different seq2seq vocalization models unsing ideas from Actor-Mimic algorithm. Showed that RL could increase quality of seq2seq models. My bachelor's thesis was based on this work.
 </details>
 
 ### Публикации
 
-<details><summary>Adaptive divergence for rapid adversarial optimization, 2020</summary>
-PeerJ Computer Science, 6, e274 <br />
-Links:
-  - <a href="https://peerj.com/articles/cs-274/">PeerJ</a>
-  - <a href="https://arxiv.org/abs/1912.00520">arxiv</a>
-</details>
+<a href="https://arxiv.org/abs/1912.00520">arxiv</a> **Adaptive divergence for rapid adversarial optimization**, 2020 Maxim Borisyak, Tatiana Gaintseva, Andrey Ustyuzhanin, PeerJ Computer Science, 6, e274 
 
-<details><summary>Autoencoders for Compression and Simulation in Particle Physics, 2020</summary>
-In Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)
-<a href="https://drive.google.com/file/d/1r2nDhkQLCpk32thTj2u23bjaa07KH1-o/view">Link to the paper</a>
-</details>
+<a href="https://drive.google.com/file/d/1r2nDhkQLCpk32thTj2u23bjaa07KH1-o/view">paper</a> **Autoencoders for Compression and Simulation in Particle Physics**, 2020, In Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)
+
 
 ### Преподавание
 <details><summary><a href="https://dlschool.org"><strong>Deep Learning School</strong></a>, 2018-present</summary>
@@ -101,7 +94,7 @@ Giving theoretical and practical lessons on the following topics: <br />
   - <a href="https://youtu.be/t8jY7X7_YWc">Semantic segmentation</a> (practice, russian)
 </details>
 
-<details><summary><strong><a href="https://rucode.net">RuCode festival (AI track)</a></strong>, 2029-2021</summary>
+<details><summary><strong><a href="https://rucode.net">RuCode festival (AI track)</a></strong>, 2019-2021</summary>
 Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants. 
 </details>
 
@@ -124,4 +117,10 @@ Teaching Sber employees different classes on machine learning, theory & practice
  Videos are not available
 </details>
 
+### Публичные выступления
+
+<details><summary><a href="https://youtu.be/zNTRmIoPLns">A talk about 2nd place solution for Machines Can See competition</a>, 2018</summary>
+<a href="https://competitions.codalab.org/competitions/19090">Competition page</a> <br />
+<a href="https://github.com/Atmyre/MCS2018_Solution">Solution code on GitHub</a> <br />
+</details>
 
