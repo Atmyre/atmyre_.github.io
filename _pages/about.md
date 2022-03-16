@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Portfolio"
 ---
 
 {% translate_file about.md %}
