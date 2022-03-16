@@ -7,13 +7,13 @@ navbar:
   categories: Категории
   tags: Тэги
   videos: Видео
-  podcasts: Подкасты
-  about: О сайте
+  podcasts: Подкаст
+  about: Портфолио
 
 global:
-  About: О сайте
+  About: Портфолио
   "Posts by Year": Записи по годам
   "Posts by Category": Записи по категории
   "Posts by Tag": Записи по тэгам
   Videos: Видео
-  Podcasts: Подкасты
+  Podcasts: Подкаст
