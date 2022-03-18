@@ -64,63 +64,72 @@ During my internship I applied RL ti different metrics to seq2seq vocalization t
 
 
 ### Преподавание
-<details><summary><a href="https://dlschool.org"><strong>Deep Learning School</strong></a>, 2018-present</summary>
+<strong><a href="https://dlschool.org"><strong>Deep Learning School</strong></a></strong>, 2018-present
 Giving lectures on different deep learning topics. <br />
-  Videos of the lectures can be found here: https://atmyre.github.io/ru/videos/#лекции
-</details>
+Videos of the lectures can be found here: https://atmyre.github.io/ru/videos/#лекции
 
-<details><summary><strong><a href="https://yandexdataschool.com">Yandex School of Data Analysis (YSDA)</a></strong>, 2019-present</summary>
+
+<strong><a href="https://yandexdataschool.com">Yandex School of Data Analysis (YSDA)</a></strong>, 2019-present</summary>
 Assisting to the "Deep vision and graphics" (former "Deep learning") class. Generating and reviewing student's homeworks. <br />
 <a href="https://github.com/yandexdataschool/deep_vision_and_graphics">Link to the course's materials</a>.
-</details>
 
-<details><summary><strong><a href="https://maths-h.com/ru/mlprojects/engineers/CV">Mathshub</a></strong>, 2021</summary>
+<details><summary><strong>2022</strong></summary>
+<br />
+<strong><a href="https://maths-h.com/ru/mlprojects/engineers/CV">Mathshub</a></strong> <br />
 Deep Learning (computer vision) main methodologist and teacher. Giving theoretical lectures and practical seminars. Also consulting students on their CV projects
+  
+<strong><a href="https://rucode.net">RuCode festival (AI track)</a></strong>
+Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants. 
+  
 </details>
 
-<details><summary><strong><a href="https://stepik.org/course/100561">"Digital centaur" Autumn Bootcamp</a></strong>, 2021</summary>
+<details><summary><strong>2021</strong></summary>
+<br />
+<strong><a href="https://stepik.org/course/100561">"Digital centaur" Autumn Bootcamp</a></strong>
 Giving theoretical and practical lessons on the following topics: <br />
   - <a href="https://youtu.be/xKNmEKA-BH8">Intro to CNN and pooling operation</a> (theory, russian)
   - <a href="https://youtu.be/ThNWPwil_lk">CNN training & CNN architectures</a> (theory, russian) <br />
-</details>
 
-<details><summary><strong><a href="https://practicingfutures.org/school_it_hmao">Information Technology Autumn School</a></strong>, 2021</summary>
+<strong><a href="https://practicingfutures.org/school_it_hmao">Information Technology Autumn School</a></strong>
 Giving theoretical and practical lessons on the topics of computer vision.
+
+<strong><a href="https://rucode.net">RuCode festival 2021 (AI track)</a></strong>
+Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants. 
+  
 </details>
 
-<details><summary><strong><a href="https://stepik.org/course/100561">"Digital centaur" AI Bootcamp</a></strong>, 2021</summary>
+<details><summary><strong>2020</strong></summary>
+<br />
+<strong><a href="https://stepik.org/course/100561">"Digital centaur" AI Bootcamp</a></strong>
 Giving theoretical and practical lessons on the following topics: <br />
   - <a href="https://youtu.be/uezEoNKGAhs">CV architectures</a> (theory & practice, russian) <br />
   - <a href="https://youtu.be/t8jY7X7_YWc">Semantic segmentation</a> (practice, russian)
-</details>
 
-<details><summary><strong><a href="https://rucode.net">RuCode festival (AI track)</a></strong>, 2019-2021</summary>
+<strong><a href="https://rucode.net">RuCode festival 2020 (AI track)</a></strong>
 Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants. 
-</details>
 
-<details><summary><strong><a href="https://stepik.org/course/80782">Brief Introduction to the Artificial Intelligence</a></strong> course, 2020</summary>
+<strong><a href="https://stepik.org/course/80782">Brief Introduction to the Artificial Intelligence</a></strong>
 Giving theoretical and practical lessons on the following topics: <br />
   - Introduction to the neural networks (theory) <br />
   - Convolutional Neural Networks basics (theory & practice) <br />
   - Computer vision tasks (theory) <br />
   - Popular CNN Architectures (theory & practice) <br />
-</details>
 
-<details><summary><strong><a href="https://mipt.ru/cdpo/programs/">Mathematics for data science (MIPT)</a></strong>, 2020-2021</summary>
+<strong><a href="https://mipt.ru/cdpo/programs/">Mathematics for data science (MIPT)</a></strong>
 Teaching module "combinatorics and math logic"
-</details>
+  
+<strong><a href="https://www.sberbank.com/ru">ML for managers</a></strong>
+Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
 
-<details><summary><strong><a href="https://www.sberbank.com/ru">Sber ML courses</a></strong>, 2018-2020</summary>
-Teaching Sber employees different classes on machine learning, theory & practice. Classes included:
-  - ML for managers (3 different activities: 2 full courses and 1 bootcamp) <br />
-  - General ML introduction course <br />
- Videos are not available
 </details>
 
 ### Публичные выступления
 
-<details><summary><a href="https://youtu.be/zNTRmIoPLns">A talk about 2nd place solution for Machines Can See competition</a>, 2018</summary>
+<details><summary><strong>2018</strong></summary>
+<br />
+<strong><a href="https://youtu.be/zNTRmIoPLns">A talk about 2nd place solution for Machines Can See competition</a></strong> <br />
 <a href="https://competitions.codalab.org/competitions/19090">Competition page</a> <br />
 <a href="https://github.com/Atmyre/MCS2018_Solution">Solution code on GitHub</a> <br />
+  
 </details>
 
