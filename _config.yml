@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Tatiana Gaintseva"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Deep Learning researcher, teacher,\n AI enthusiast & blogger"
+  bio    : "Deep Learning researcher, teacher,<br />AI enthusiast & blogger"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
