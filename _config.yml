@@ -88,9 +88,8 @@ author:
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/atmyree"
-    - label: "<br />"
     - label: "Подкаст DLStories"
-      icon: "fa-solid fa-podcast"
+      icon: "fa-solid fa-microphone"
       url: "https://deeplearningstories406433278.wordpress.com"
 
 footer:
