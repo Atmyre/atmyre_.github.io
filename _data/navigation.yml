@@ -7,7 +7,5 @@ main:
     url: /tags/
   - title: navbar.videos
     url: /videos/
-  - title: navbar.podcasts
-    url: /podcasts/
   - title: navbar.about
     url: /about/
