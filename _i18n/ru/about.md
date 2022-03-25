@@ -74,7 +74,7 @@ Big Data department
   Videos of the lectures can be found here: <https://atmyre.github.io/ru/videos/#лекции>
 
 - [**Yandex School of Data Analysis (YSDA)**](https://yandexdataschool.com), 2019-present  
-  Assisting to the "Deep vision and graphics" (former "Deep learning") class. Generating and reviewing student's homeworks. <br />
+  Assisting to the "Deep vision and graphics" (former "Deep learning") class. Generating and reviewing student's homeworks.  
   [Link to the course's materials](https://github.com/yandexdataschool/deep_vision_and_graphics).
 
 ### 2022
