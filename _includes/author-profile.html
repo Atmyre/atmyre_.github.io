@@ -242,5 +242,17 @@
 
       {% include author-profile-custom-links.html %}
     </ul>
+
+    {% if author.additional_links %}
+    <div style="margin-top:1em;">
+      <ul class="author__urls social-icons">
+        {% for link in author.additional_links %}
+          {% if link.label and link.url %}
+            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
   </div>
 </div>
