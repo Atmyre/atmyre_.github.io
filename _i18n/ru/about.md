@@ -103,30 +103,33 @@ Giving theoretical and practical lessons on the topics of computer vision.
 
 Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
 
-<details><summary><strong>2020</strong></summary>
-<br />
-<strong><a href="https://stepik.org/course/100561">"Digital centaur" AI Bootcamp</a></strong>
-Giving theoretical and practical lessons on the following topics: <br />
-  - <a href="https://youtu.be/uezEoNKGAhs">CV architectures</a> (theory & practice, russian) <br />
-  - <a href="https://youtu.be/t8jY7X7_YWc">Semantic segmentation</a> (practice, russian) <br />
-<br />
-<strong><a href="https://rucode.net">RuCode festival 2020 (AI track)</a></strong>
-Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants. <br />
+### 2020
 
-<strong><a href="https://stepik.org/course/80782">Brief Introduction to the Artificial Intelligence</a></strong>
-Giving theoretical and practical lessons on the following topics: <br />
-  - Introduction to the neural networks (theory) <br />
-  - Convolutional Neural Networks basics (theory & practice) <br />
-  - Computer vision tasks (theory) <br />
-  - Popular CNN Architectures (theory & practice) <br />
-<br />
-<strong><a href="https://mipt.ru/cdpo/programs/">Mathematics for data science (MIPT)</a></strong>
-Teaching module "combinatorics and math logic"<br />
-  <br />
-<strong><a href="https://www.sberbank.com/ru">ML for managers</a></strong>
-Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available<br />
+[**"Digital centaur" AI Bootcamp**](https://stepik.org/course/100561)
 
-</details>
+Giving theoretical and practical lessons on the following topics:
+  - [CV architectures](https://youtu.be/uezEoNKGAhs) (theory & practice, russian)
+  - [Semantic segmentation](https://youtu.be/t8jY7X7_YWc) (practice, russian)
+
+[**RuCode festival 2020 (AI track)**](https://rucode.net)
+
+Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
+
+[**Brief Introduction to the Artificial Intelligence**](https://stepik.org/course/80782)
+
+Giving theoretical and practical lessons on the following topics:
+- Introduction to the neural networks (theory)
+- Convolutional Neural Networks basics (theory & practice)
+- Computer vision tasks (theory)
+- Popular CNN Architectures (theory & practice)
+
+[**Mathematics for data science (MIPT)**](https://mipt.ru/cdpo/programs/)
+
+Teaching module "combinatorics and math logic"
+
+[**ML for managers**](https://www.sberbank.com/ru)
+
+Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
 
 ### Публичные выступления
 
