@@ -35,25 +35,24 @@ Big Data department
 ## Работа
 
 - Data & AI Scientist, [**Philips Innovation Labs RUS**](https://www.philips.ru/a-w/about-philips/research-moscow.html), 2021-present  
-  AI research in computer vision applied to medical domain.  
-  Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
-  I also host "AI knowledge base" initiative, where people gather to discuss recent advances in computer vision 
+  - AI research in computer vision applied to medical domain.  
+  - Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
+  - I also host "AI knowledge base" initiative, where people gather to discuss recent advances in computer vision 
 
 - Developer-researcher, **Huawei R&D Moscow center**, 2020-2021  
-  AI research in computer vision  
-  Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
+  - AI research in computer vision  
+  - Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
 
 - DL researcher, [**LAMBDA HSE**](https://cs.hse.ru/en/lambda/), 2018-2020  
-  DL research in hight energy physics domain  
-  I was working on generaive adversarial models applied to high energy physics  
-  Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
+  - DL research in hight energy physics domain  
+  - I was working on generaive adversarial models applied to high energy physics  
+  - Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
 
 - SRE Intern, **Google Dublin**, 2019  
-  During my internship I developed large-scale hierarchical graph clustering algorithm for internal
-  services graphs representations
+  - During my internship I developed large-scale hierarchical graph clustering algorithm for internal services graphs representations
 
 - Developer-researcher intern, **Yandex**, 2017  
-  During my internship I applied RL ti different metrics to seq2seq vocalization task. Combined different seq2seq vocalization models unsing ideas from Actor-Mimic algorithm. Showed that RL could increase quality of seq2seq models. My bachelor's thesis was based on this work.
+  - During my internship I applied RL ti different metrics to seq2seq vocalization task. Combined different seq2seq vocalization models unsing ideas from Actor-Mimic algorithm. Showed that RL could increase quality of seq2seq models. My bachelor's thesis was based on this work.
 
 ## Публикации
 
@@ -85,46 +84,46 @@ Big Data department
 
 [**"Digital centaur" Autumn Bootcamp**](https://stepik.org/course/100561)
 
-Giving theoretical and practical lessons on the following topics:
+- Giving theoretical and practical lessons on the following topics:
 
-- [Intro to CNN and pooling operation](https://youtu.be/xKNmEKA-BH8) (theory, russian)
-- [CNN training & CNN architectures](https://youtu.be/ThNWPwil_lk) (theory, russian)
+  - [Intro to CNN and pooling operation](https://youtu.be/xKNmEKA-BH8) (theory, russian)
+  - [CNN training & CNN architectures](https://youtu.be/ThNWPwil_lk) (theory, russian)
 
 [**Information Technology Autumn School**](https://practicingfutures.org/school_it_hmao)
 
-Giving theoretical and practical lessons on the topics of computer vision.
+- Giving theoretical and practical lessons on the topics of computer vision.
 
 [**RuCode festival 2021 (AI track)**](https://rucode.net)
 
-Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
+- Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
 
 ### 2020
 
 [**"Digital centaur" AI Bootcamp**](https://stepik.org/course/100561)
 
-Giving theoretical and practical lessons on the following topics:
+- Giving theoretical and practical lessons on the following topics:
   - [CV architectures](https://youtu.be/uezEoNKGAhs) (theory & practice, russian)
   - [Semantic segmentation](https://youtu.be/t8jY7X7_YWc) (practice, russian)
 
 [**RuCode festival 2020 (AI track)**](https://rucode.net)
 
-Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
+- Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
 
 [**Brief Introduction to the Artificial Intelligence**](https://stepik.org/course/80782)
 
-Giving theoretical and practical lessons on the following topics:
-- Introduction to the neural networks (theory)
-- Convolutional Neural Networks basics (theory & practice)
-- Computer vision tasks (theory)
-- Popular CNN Architectures (theory & practice)
+- Giving theoretical and practical lessons on the following topics:
+  - Introduction to the neural networks (theory)
+  - Convolutional Neural Networks basics (theory & practice)
+  - Computer vision tasks (theory)
+  - Popular CNN Architectures (theory & practice)
 
 [**Mathematics for data science (MIPT)**](https://mipt.ru/cdpo/programs/)
 
-Teaching module "combinatorics and math logic"
+- Teaching module "combinatorics and math logic"
 
 [**ML for managers**](https://www.sberbank.com/ru)
 
-Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
+- Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
 
 ### Публичные выступления
 
