@@ -1,10 +1,5 @@
 Привет! Меня зовут Таня Гайнцева, я исследователь в области глубокого обучения. Также я преподаю ML/DL, пишу статьи, пишу подкаст о разных аспектах DL research и веду блог DLStroies в телеграме, где рассказываю о новостях в области исследований ИИ. На этой странице собрана вся информация обо мне со ссылками.
 
-## Ссылки
-- [Curriculum Vitae](https://drive.google.com/file/d/1O9byn9wugAlLdmuKNPmjsWcDkXadt7z3/view?usp=sharing)
-- [Google Scholar](https://scholar.google.com/citations?user=pzVAnzsAAAAJ&hl=ru&authuser=1)
-- [LinkedIn](http://linkedin.com/in/tgaintseva/)
-
 ## Образование
 <!--
 `2016 - 2018`
