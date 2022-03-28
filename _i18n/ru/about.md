@@ -37,18 +37,23 @@ Master Degree specialized in Open Source
 - Data & AI Scientist, [**Philips Innovation Labs RUS**](https://www.philips.ru/a-w/about-philips/research-moscow.html), 2021-present  
 
   AI research in computer vision applied to medical domain.  
+
   Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
+
   I also host "AI knowledge base" initiative, where people gather to discuss recent advances in computer vision 
 
 - Developer-researcher, **Huawei R&D Moscow center**, 2020-2021  
 
   AI research in computer vision  
+
   Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
 
 - DL researcher, [**LAMBDA HSE**](https://cs.hse.ru/en/lambda/), 2018-2020  
 
   DL research in hight energy physics domain  
+
   I was working on generaive adversarial models applied to high energy physics  
+  
   Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
 
 - SRE Intern, **Google Dublin**, 2019  
@@ -69,19 +74,23 @@ Master Degree specialized in Open Source
 ## Преподавание
 
 - [**Deep Learning School**](https://dlschool.org), 2018-present  
+
   Giving lectures on different deep learning topics.  
   Videos of the lectures can be found here: <https://atmyre.github.io/ru/videos/#лекции>
 
 - [**Yandex School of Data Analysis (YSDA)**](https://yandexdataschool.com), 2019-present  
+
   Assisting to the "Deep vision and graphics" (former "Deep learning") class. Generating and reviewing student's homeworks.  
   [Link to the course's materials](https://github.com/yandexdataschool/deep_vision_and_graphics).
 
 ### 2022
 
 - [**Mathshub**](https://maths-h.com/ru/mlprojects/engineers/CV)  
+
   Deep Learning (computer vision) main methodologist and teacher. Giving theoretical lectures and practical seminars. Also consulting students on their CV projects
 
 - [**RuCode festival (AI track)**](https://rucode.net)  
+
   Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
 
 
