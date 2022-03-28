@@ -1,11 +1,9 @@
-Привет! Меня зовут Таня Гайнцева, я исследователь в области глубокого обучения. Также я преподаю ML/DL, пишу статьи, пишу подкаст о разных аспектах DL research и веду блог DLStroies в телеграме, где рассказываю о новостях в области исследований ИИ. На этой странице собрана вся информация обо мне со ссылками.
+Привет! Меня зовут Таня Гайнцева, я исследователь в области глубокого обучения. Также я преподаю ML/DL, пишу статьи, пишу подкаст о разных аспектах DL research и веду блог DLStroies в телеграме, где рассказываю о новостях в области исследований ИИ.
+
+На этой странице собрана вся информация обо мне со ссылками.
 
 ## Образование
-<!--
-`2016 - 2018`
-__University of Littoral Côte d'Opale__
-Master Degree specialized in Open Source
--->
+
 ### M.Sc.
 
 - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
@@ -13,7 +11,7 @@ Master Degree specialized in Open Source
   2017-2019, Moscow, Russian Federation  
   Department of Innovations and High Technology,  
   Data Analysis subdepartment.  
-  Thesis title: Use of Domain Adaptation to expand the scope of Generative Models   
+  Thesis title: Use of Domain Adaptation to expand the scope of Generative Models
 
 ### B.Sc.
 
@@ -70,7 +68,6 @@ Master Degree specialized in Open Source
 
 - **Autoencoders for Compression and Simulation in Particle Physics** ([paper](https://drive.google.com/file/d/1r2nDhkQLCpk32thTj2u23bjaa07KH1-o/view)), 2020, In Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)
 
-
 ## Преподавание
 
 - [**Deep Learning School**](https://dlschool.org), 2018-present  
@@ -92,7 +89,6 @@ Master Degree specialized in Open Source
 - [**RuCode festival (AI track)**](https://rucode.net)  
 
   Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
-
 
 ### 2021
 
