@@ -2,7 +2,7 @@ Hello there! My name is Tania Gaintseva, I am a deep learning researcher. I also
 
 On this page all the information about me with all the relevant links is located.
 
-### Education
+## Education
 
 ### M.Sc.
 
@@ -34,7 +34,7 @@ On this page all the information about me with all the relevant links is located
   2016-2018, Moscow, Russian Federation  
   Big Data department
 
-### Employment
+## Employment
 
 - Data & AI Scientist, [**Philips Innovation Labs RUS**](https://www.philips.ru/a-w/about-philips/research-moscow.html), 2021-present  
 
@@ -66,13 +66,13 @@ On this page all the information about me with all the relevant links is located
 
   During my internship I applied RL ti different metrics to seq2seq vocalization task. Combined different seq2seq vocalization models using ideas from Actor-Mimic algorithm. Showed that RL could increase quality of seq2seq models. My bachelor's thesis was based on this work.
 
-### Publications
+## Publications
 
 - **Adaptive divergence for rapid adversarial optimization** ([arxiv](https://arxiv.org/abs/1912.00520)), 2020 Maxim Borisyak, Tatiana Gaintseva, Andrey Ustyuzhanin, PeerJ Computer Science, 6, e274 
 
 - **Autoencoders for Compression and Simulation in Particle Physics** ([paper](https://drive.google.com/file/d/1r2nDhkQLCpk32thTj2u23bjaa07KH1-o/view)), 2020, In Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)
 
-### Academia
+## Academia
 
 - [**Deep Learning School**](https://dlschool.org), 2018-present  
 
@@ -139,13 +139,13 @@ On this page all the information about me with all the relevant links is located
 
   Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
 
-### Public speeches
+## Public speeches
 
-#### 2018
+### 2018
 
 - [**A talk about 2nd place solution for Machines Can See competition**](https://youtu.be/zNTRmIoPLns)  
 
-  Machines Can See 2018 competition was about black-box adversarial attacks on images. Participants needed to build an algorithm which would change pictures so that they would become not recognizable by a given hidden network. <br />
+  Machines Can See 2018 competition was about black-box adversarial attacks on images. Participants needed to build an algorithm which would change pictures so that they would become not recognizable by a given hidden network.
   - [Competition page](https://competitions.codalab.org/competitions/19090)  
   - [Solution code on GitHub](https://github.com/Atmyre/MCS2018_Solution)
 

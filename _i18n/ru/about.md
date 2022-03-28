@@ -139,9 +139,9 @@
 
   Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
 
-### Публичные выступления
+## Публичные выступления
 
-#### 2018
+### 2018
 
 - [**A talk about 2nd place solution for Machines Can See competition**](https://youtu.be/zNTRmIoPLns)  
   - [Competition page](https://competitions.codalab.org/competitions/19090)  
