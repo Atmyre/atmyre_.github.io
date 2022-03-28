@@ -74,15 +74,19 @@ On this page all the information about me with all the relevant links is located
 
 ## Academia
 
-- [**Deep Learning School**](https://dlschool.org), 2018-present  
+- **2018-present**
 
-  Giving lectures on different deep learning topics.  
-  Videos of the lectures can be found here: <https://atmyre.github.io/videos/#educational-videos>
+  - [**Deep Learning School**](https://dlschool.org)
 
-- [**Yandex School of Data Analysis (YSDA)**](https://yandexdataschool.com), 2019-present  
+    Giving lectures on different deep learning topics.  
+    Videos of the lectures can be found here: <https://atmyre.github.io/videos/#educational-videos>
 
-  Assisting to the "Deep vision and graphics" (former "Deep learning") class. Generating and reviewing student's homeworks.  
-  [Link to the course's materials](https://github.com/yandexdataschool/deep_vision_and_graphics).
+- **2019-present**
+
+  - [**Yandex School of Data Analysis (YSDA)**](https://yandexdataschool.com)
+
+    Assisting to the "Deep vision and graphics" (former "Deep learning") class. Generating and reviewing student's homeworks.  
+    [Link to the course's materials](https://github.com/yandexdataschool/deep_vision_and_graphics).
 
 - **2022**
 
