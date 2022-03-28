@@ -8,18 +8,22 @@ On this page all the information about me with all the relevant links is located
 
 - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
 
-  2017-2019, Moscow, Russian Federation  
+  2017-2019, Moscow, Russian Federation
+  
   Department of Innovations and High Technology,  
-  Data Analysis subdepartment.  
+  Data Analysis subdepartment.
+
   Thesis title: Use of Domain Adaptation to expand the scope of Generative Models
 
 ### B.Sc.
 
 - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
 
-  2013-2017, Moscow, Russian Federation  
+  2013-2017, Moscow, Russian Federation
+
   Department of Innovations and High Technology,  
-  Data Analysis subdepartment.  
+  Data Analysis subdepartment.
+
   Thesis title: Multi-Objective Deep Reinforcement Learning in Seq2Seq Machine
   Translation
 
