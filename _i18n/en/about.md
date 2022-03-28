@@ -84,69 +84,69 @@ On this page all the information about me with all the relevant links is located
   Assisting to the "Deep vision and graphics" (former "Deep learning") class. Generating and reviewing student's homeworks.  
   [Link to the course's materials](https://github.com/yandexdataschool/deep_vision_and_graphics).
 
-### 2022
+- **2022**
 
-- [**Mathshub**](https://maths-h.com/ru/mlprojects/engineers/CV)  
+  - [**Mathshub**](https://maths-h.com/ru/mlprojects/engineers/CV)  
 
-  Deep Learning (computer vision) main methodologist and teacher. Giving theoretical lectures and practical seminars. Also consulting students on their CV projects
+    Deep Learning (computer vision) main methodologist and teacher. Giving theoretical lectures and practical seminars. Also consulting students on their CV projects
 
-- [**RuCode festival (AI track)**](https://rucode.net)  
+  - [**RuCode festival (AI track)**](https://rucode.net)  
 
-  Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
+    Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
 
-### 2021
+- **2021**
 
-- [**"Digital centaur" Autumn Bootcamp**](https://stepik.org/course/100561)
+  - [**"Digital centaur" Autumn Bootcamp**](https://stepik.org/course/100561)
 
-  Giving theoretical and practical lessons on the following topics:
+    Giving theoretical and practical lessons on the following topics:
 
-  - [Intro to CNN and pooling operation](https://youtu.be/xKNmEKA-BH8) (theory, russian)
-  - [CNN training & CNN architectures](https://youtu.be/ThNWPwil_lk) (theory, russian)
+    - [Intro to CNN and pooling operation](https://youtu.be/xKNmEKA-BH8) (theory, russian)
+    - [CNN training & CNN architectures](https://youtu.be/ThNWPwil_lk) (theory, russian)
 
-- [**Information Technology Autumn School**](https://practicingfutures.org/school_it_hmao)
+  - [**Information Technology Autumn School**](https://practicingfutures.org/school_it_hmao)
 
-  Giving theoretical and practical lessons on the topics of computer vision.
+    Giving theoretical and practical lessons on the topics of computer vision.
 
-- [**RuCode festival 2021 (AI track)**](https://rucode.net)
+  - [**RuCode festival 2021 (AI track)**](https://rucode.net)
 
-  Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
+    Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
 
-### 2020
+- **2020**
 
-- [**"Digital centaur" AI Bootcamp**](https://stepik.org/course/100561)
+  - [**"Digital centaur" AI Bootcamp**](https://stepik.org/course/100561)
 
-  Giving theoretical and practical lessons on the following topics:
-  - [CV architectures](https://youtu.be/uezEoNKGAhs) (theory & practice, russian)
-  - [Semantic segmentation](https://youtu.be/t8jY7X7_YWc) (practice, russian)
+    Giving theoretical and practical lessons on the following topics:
+    - [CV architectures](https://youtu.be/uezEoNKGAhs) (theory & practice, russian)
+    - [Semantic segmentation](https://youtu.be/t8jY7X7_YWc) (practice, russian)
 
-- [**RuCode festival 2020 (AI track)**](https://rucode.net)
+  - [**RuCode festival 2020 (AI track)**](https://rucode.net)
 
-  Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
+    Preparing contests in ML/DL, giving educational lectures to the participants on computer vision/NLP topics. Videos of the lectures are not available, because they are only for the participants.
 
-- [**Brief Introduction to the Artificial Intelligence**](https://stepik.org/course/80782)
+  - [**Brief Introduction to the Artificial Intelligence**](https://stepik.org/course/80782)
 
-  Giving theoretical and practical lessons on the following topics:
-  - Introduction to the neural networks (theory)
-  - Convolutional Neural Networks basics (theory & practice)
-  - Computer vision tasks (theory)
-  - Popular CNN Architectures (theory & practice)
+    Giving theoretical and practical lessons on the following topics:
+    - Introduction to the neural networks (theory)
+    - Convolutional Neural Networks basics (theory & practice)
+    - Computer vision tasks (theory)
+    - Popular CNN Architectures (theory & practice)
 
-- [**Mathematics for data science (MIPT)**](https://mipt.ru/cdpo/programs/)
+  - [**Mathematics for data science (MIPT)**](https://mipt.ru/cdpo/programs/)
 
-  Teaching module "combinatorics and math logic"
+    Teaching module "combinatorics and math logic"
 
-- [**ML for managers**](https://www.sberbank.com/ru)
+  - [**ML for managers**](https://www.sberbank.com/ru)
 
-  Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
+    Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
 
 ## Public speeches
 
-### 2018
+- **2018**
 
-- [**A talk about 2nd place solution for Machines Can See competition**](https://youtu.be/zNTRmIoPLns)  
+  - [**A talk about 2nd place solution for Machines Can See competition**](https://youtu.be/zNTRmIoPLns)  
 
-  Machines Can See 2018 competition was about black-box adversarial attacks on images. Participants needed to build an algorithm which would change pictures so that they would become not recognizable by a given hidden network.
-  - [Competition page](https://competitions.codalab.org/competitions/19090)  
-  - [Solution code on GitHub](https://github.com/Atmyre/MCS2018_Solution)
+    Machines Can See 2018 competition was about black-box adversarial attacks on images. Participants needed to build an algorithm which would change pictures so that they would become not recognizable by a given hidden network.
+    - [Competition page](https://competitions.codalab.org/competitions/19090)  
+    - [Solution code on GitHub](https://github.com/Atmyre/MCS2018_Solution)
 
 
