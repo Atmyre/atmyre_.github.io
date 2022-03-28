@@ -1,5 +1,4 @@
 ---
-toc: true
 permalink: /about/
 title: "Portfolio"
 ---
