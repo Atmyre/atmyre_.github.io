@@ -1,4 +1,6 @@
-Hello there! My name is Tania Gaintseva, I am a deep learning researcher. I also teach  ML/DL, write articles, host a podcast about deep learning and run a blog in Telegram. In blog I write about recent developments on AI.
+Hello there! My name is Tania Gaintseva, I am Data & AI Scientist at Philips Innovation Labs. I also teach  ML/DL in Deep Learning School and other places, write articles, host a podcast about deep learning and run a blog about AI in Telegram. 
+
+My research interests are mostly computer vision, multimodality and adversarial robustness.
 
 On this page all the information about me with all the relevant links is located.
 
@@ -6,7 +8,7 @@ On this page all the information about me with all the relevant links is located
 
 - **M.Sc.**
 
-  - **[Moscow Institute of Physics and Technology (MIPT)]**(https://mipt.ru/english/)
+  - [**Moscow Institute of Physics and Technology (MIPT)**](https://mipt.ru/english/)
 
     2017-2019, Moscow, Russian Federation
     
@@ -17,7 +19,7 @@ On this page all the information about me with all the relevant links is located
 
 - **B.Sc.**
 
-  - **[Moscow Institute of Physics and Technology (MIPT)]**(https://mipt.ru/english/)
+  - [**Moscow Institute of Physics and Technology (MIPT)**](https://mipt.ru/english/)
 
     2013-2017, Moscow, Russian Federation
 
