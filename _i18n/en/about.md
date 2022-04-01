@@ -6,7 +6,7 @@ On this page all the information about me with all the relevant links is located
 
 - **M.Sc.**
 
-  - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
+  - **[Moscow Institute of Physics and Technology (MIPT)]**(https://mipt.ru/english/)
 
     2017-2019, Moscow, Russian Federation
     
@@ -17,7 +17,7 @@ On this page all the information about me with all the relevant links is located
 
 - **B.Sc.**
 
-  - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
+  - **[Moscow Institute of Physics and Technology (MIPT)]**(https://mipt.ru/english/)
 
     2013-2017, Moscow, Russian Federation
 
@@ -36,7 +36,7 @@ On this page all the information about me with all the relevant links is located
 
 ## Employment
 
-- Data & AI Scientist, [**Philips Innovation Labs RUS**](https://www.philips.ru/a-w/about-philips/research-moscow.html), 2021-present  
+- **Data & AI Scientist**, [**Philips Innovation Labs RUS**](https://www.philips.ru/a-w/about-philips/research-moscow.html), 2021-present  
 
   AI research in computer vision applied to medical domain.  
 
@@ -44,13 +44,13 @@ On this page all the information about me with all the relevant links is located
 
   I also host "AI knowledge base" initiative, where people gather to discuss recent advances in computer vision 
 
-- Developer-researcher, **Huawei R&D Moscow center**, 2020-2021  
+- **Developer-researcher**, **Huawei R&D Moscow center**, 2020-2021  
 
   AI research in computer vision  
 
   Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
 
-- DL researcher, [**LAMBDA HSE**](https://cs.hse.ru/en/lambda/), 2018-2020  
+- **DL researcher**, [**LAMBDA HSE**](https://cs.hse.ru/en/lambda/), 2018-2020  
 
   DL research in hight energy physics domain  
 
@@ -58,11 +58,11 @@ On this page all the information about me with all the relevant links is located
   
   Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
 
-- SRE Intern, **Google Dublin**, 2019  
+- **SRE Intern**, **Google Dublin**, 2019  
 
   During my internship I developed large-scale hierarchical graph clustering algorithm for internal services graphs representations
 
-- Developer-researcher intern, **Yandex**, 2017  
+- **Developer-researcher intern**, **Yandex**, 2017  
 
   During my internship I applied RL ti different metrics to seq2seq vocalization task. Combined different seq2seq vocalization models using ideas from Actor-Mimic algorithm. Showed that RL could increase quality of seq2seq models. My bachelor's thesis was based on this work.
 
@@ -152,5 +152,14 @@ On this page all the information about me with all the relevant links is located
     Machines Can See 2018 competition was about black-box adversarial attacks on images. Participants needed to build an algorithm which would change pictures so that they would become not recognizable by a given hidden network.
     - [Competition page](https://competitions.codalab.org/competitions/19090)  
     - [Solution code on GitHub](https://github.com/Atmyre/MCS2018_Solution)
+
+## Other projects
+- [**DLStories blog**](https://t.me/dl_stories) (in Russian)
+
+  DLStories is a blog about recent developments in AI in Telegram. I write about recent scientific papers, discoveries, new AI technology, about the impact that AI has on our social lives, etc. I also share educational materials and useful tools for AI researcher. 
+  
+- [**Deep Learning Stories Podcast**](https://deeplearningstories406433278.wordpress.com) (in Russian)
+
+  Deep Learning Stories is a podcast about different aspects of AI researcher profession. With different people related to AI research we talk about AI, our profession, interviews. There are also specific episodes about AI in medicine or quantum computers and AI in it.
 
 
