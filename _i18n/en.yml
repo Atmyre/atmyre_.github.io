@@ -6,8 +6,8 @@ navbar:
   posts: Posts
   categories: Categories
   tags: Tags
-  videos: Videos
+  teaching: Teaching
   podcasts: Podcasts
-  about: About
+  portfolio: Portfolio
 
 global:
