@@ -152,7 +152,7 @@ tag_archive:
 
 collections:
   - podcasts
-  - videos
+  - teaching
 
 analytics:
   provider: "google-gtag"
