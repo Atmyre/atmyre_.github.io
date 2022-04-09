@@ -2,7 +2,7 @@
 On this page there is a collection of my educational materials.
 
 ## Table of contents
-- [Videos](#videos) <br />
+- [Lectures](#videos) <br />
   - [CNN](#cnn) <br />
   - [Transfer Learning](#transfer_learning) <br />
   - [Semantic Segmentation](#segmentation) <br />
@@ -16,7 +16,7 @@ On this page there is a collection of my educational materials.
 
 <a name="videos"/>
 
-## Videos on different topics
+## Lectures on different topics
 
 Educational videos on different aspects of deep learning
 
