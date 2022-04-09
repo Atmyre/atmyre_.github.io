@@ -1,5 +1,5 @@
 
-Here is a collection of videos of my educational lectures and public speeches. Videos are currently in Russian, but you can turn on automatic English subtitles on YouTube.
+On this page there is a collection of my educational materials.
 
 ## Table of contents
 - [Videos](#videos) <br />
