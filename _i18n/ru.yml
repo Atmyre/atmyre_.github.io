@@ -6,14 +6,14 @@ navbar:
   posts: Блог
   categories: Категории
   tags: Тэги
-  videos: Видео
+  teaching: Обучение
   podcasts: Подкаст
-  about: Портфолио
+  portfolio: Портфолио
 
 global:
-  About: Портфолио
+  Portfolio: Портфолио
   "Posts by Year": Записи по годам
   "Posts by Category": Записи по категории
   "Posts by Tag": Записи по тэгам
-  Videos: Видео
+  Teaching: Обучение
   Podcasts: Подкаст
