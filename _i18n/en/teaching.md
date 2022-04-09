@@ -2,19 +2,17 @@
 Here is a collection of videos of my educational lectures and public speeches. Videos are currently in Russian, but you can turn on automatic English subtitles on YouTube.
 
 ## Table of contents
-- [Educational videos](#лекции) <br />
+- [Videos](#videos) <br />
   - [CNN](#cnn) <br />
   - [Transfer Learning](#transfer_learning) <br />
   - [Semantic Segmentation](#segmentation) <br />
   - [Language Modeling](#language_modeling) <br />
   - [Seq2Seq, Machine Translation](#mt) <br />
   - [Attention](#attention) <br />
-- [Public Speeches](#выступления) <br />
-  - [Yandex ML Training 2018: a solution for 2nd place on Mashines Can See competition](#yandex-ml-training)
 
-<a name="лекции"/>
+<a name="videos"/>
 
-## Educational videos
+## Videos on different topics
 
 Educational videos on different aspects of deep learning
 
@@ -71,14 +69,3 @@ Lectures at [DLSchool](dlschool.org):
 ### Attention
 Lectures at [DLSchool](dlschool.org):
 - [rus] [Attention](https://youtu.be/G4vT5cvJSxY)
-
-<a name="выступления"/>
-
-## Public speeches
-
-Links to public speeches I've made
-
-<a name="yandex-ml-training"/>
-
-- [rus] [A solution for 2nd place on Machines Can See 2018 competition](https://youtu.be/zNTRmIoPLns) <br />
-  [Code on GitHub GitHub](https://github.com/Atmyre/MCS2018_Solution) 
