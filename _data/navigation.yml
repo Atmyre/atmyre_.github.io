@@ -5,7 +5,7 @@ main:
     url: /categories/
   - title: navbar.tags
     url: /tags/
-  - title: navbar.videos
-    url: /videos/
-  - title: navbar.about
+  - title: navbar.teaching
+    url: /teaching/
+  - title: navbar.portfolio
     url: /about/
