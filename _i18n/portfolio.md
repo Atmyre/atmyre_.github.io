@@ -4,35 +4,35 @@
 
 ## Образование
 
-- **M.Sc.**
+- **M.Sc. (степень магистра)**
 
-  - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
+  - [Московский Физико-Технический Институт (МФТИ)](https://mipt.ru/english/)
 
-    2017-2019, Moscow, Russian Federation
+    2017-2019, Москва, Россия
 
-    Department of Innovations and High Technology,  
-    Data Analysis subdepartment.
+    Физтех-школа Прикладной Математики и Информатики (ФПМИ)  
+    Кафедра Анализа Данных.
 
-    Thesis title: Use of Domain Adaptation to expand the scope of Generative Models
+    Тема диплома: Use of Domain Adaptation to expand the scope of Generative Models
 
-- **B.Sc.**
+- **B.Sc. (степень бакалавра)**
 
-  - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
+  - [Московский Физико-Технический Институт (МФТИ)](https://mipt.ru/english/)
 
-    2013-2017, Moscow, Russian Federation
+    2013-2017, Москва, Россия
 
-    Department of Innovations and High Technology,  
-    Data Analysis subdepartment.
+    Физтех-школа Прикладной Математики и Информатики (ФПМИ, бывш. ФИВТ)  
+    Кафедра Анализа Данных.
 
-    Thesis title: Multi-Objective Deep Reinforcement Learning in Seq2Seq Machine
+    Тема диплома: Multi-Objective Deep Reinforcement Learning in Seq2Seq Machine
     Translation
 
-- **Professional course**
+- **Дополнительные курсы**
 
-  - [Yandex School of Data Analysis (YSDA)](https://yandexdataschool.com)
+  - [Школа Анализа Данных Яндекса (ШАД)](https://yandexdataschool.com)
 
-    2016-2018, Moscow, Russian Federation  
-    Big Data department
+    2016-2018, Москва, Россия
+    Отделение Анализа Данных
 
 ## Работа
 
