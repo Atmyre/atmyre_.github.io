@@ -10,6 +10,10 @@ Here is a collection of videos of my educational lectures and public speeches. V
   - [Seq2Seq, Machine Translation](#mt) <br />
   - [Attention](#attention) <br />
 
+
+
+<br/>
+
 <a name="videos"/>
 
 ## Videos on different topics
