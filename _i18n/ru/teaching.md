@@ -1,20 +1,18 @@
 
-На этой странице собраны видео моих обучающих лекций и выступлений
+На этой странице собраны ссылки на мои обучающие материалы. 
 
 ## Оглавление
-- [Обучающие видео](#лекции) <br />
+- [Видео](#videos) <br />
   - [CNN](#cnn) <br />
   - [Transfer Learning](#transfer_learning) <br />
   - [Сегментация](#segmentation) <br />
   - [Языковые модели](#language_modeling) <br />
   - [Seq2Seq, машинный перевод](#mt) <br />
   - [Attention](#attention) <br />
-- [Выступления](#выступления) <br />
-  - [Yandex ML Training 2018: решение 2 места соревнования Mashines Can See](#yandex-ml-training)
 
-<a name="лекции"/>
+<a name="videos"/>
 
-## Обучающие видео
+## Видео
 
 Обучающие видео по разным аспектам deep learning
 
@@ -71,14 +69,3 @@
 ### Attention (механизм внимания)
 Лекции в [DLSchool](dlschool.org):
 - [rus] [Attention](https://youtu.be/G4vT5cvJSxY)
-
-<a name="выступления"/>
-
-## Выступления
-
-Выступления на митапах, конференциях.
-
-<a name="yandex-ml-training"/>
-
-- [rus] [Решение второго места соревнования Machines Can See 2018](https://youtu.be/zNTRmIoPLns) <br />
-  [GitHub с кодом решения](https://github.com/Atmyre/MCS2018_Solution) 

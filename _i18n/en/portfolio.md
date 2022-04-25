@@ -1,15 +1,17 @@
-Привет! Меня зовут Таня Гайнцева, я исследователь в области глубокого обучения. Также я преподаю ML/DL, пишу статьи, пишу подкаст о разных аспектах DL research и веду блог DLStroies в телеграме, где рассказываю о новостях в области исследований ИИ.
+Hello there! My name is Tania Gaintseva, I am Data & AI Scientist at Philips Innovation Labs. I also teach  ML/DL in Deep Learning School and other places, write articles, host a podcast about deep learning and run a blog about AI in Telegram. 
 
-На этой странице собрана вся информация обо мне со ссылками.
+My research interests are mostly computer vision, multimodality and adversarial robustness.
 
-## Образование
+On this page all the information about me with all the relevant links is located.
+
+## Education
 
 - **M.Sc.**
 
-  - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
+  - [**Moscow Institute of Physics and Technology (MIPT)**](https://mipt.ru/english/)
 
     2017-2019, Moscow, Russian Federation
-
+    
     Department of Innovations and High Technology,  
     Data Analysis subdepartment.
 
@@ -17,7 +19,7 @@
 
 - **B.Sc.**
 
-  - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
+  - [**Moscow Institute of Physics and Technology (MIPT)**](https://mipt.ru/english/)
 
     2013-2017, Moscow, Russian Federation
 
@@ -34,9 +36,9 @@
     2016-2018, Moscow, Russian Federation  
     Big Data department
 
-## Работа
+## Employment
 
-- Data & AI Scientist, [**Philips Innovation Labs RUS**](https://www.philips.ru/a-w/about-philips/research-moscow.html), 2021-present  
+- **Data & AI Scientist**, [**Philips Innovation Labs RUS**](https://www.philips.ru/a-w/about-philips/research-moscow.html), 2021-present  
 
   AI research in computer vision applied to medical domain.  
 
@@ -44,13 +46,13 @@
 
   I also host "AI knowledge base" initiative, where people gather to discuss recent advances in computer vision 
 
-- Developer-researcher, **Huawei R&D Moscow center**, 2020-2021  
+- **Developer-researcher**, **Huawei R&D Moscow center**, 2020-2021  
 
   AI research in computer vision  
 
   Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
 
-- DL researcher, [**LAMBDA HSE**](https://cs.hse.ru/en/lambda/), 2018-2020  
+- **DL researcher**, [**LAMBDA HSE**](https://cs.hse.ru/en/lambda/), 2018-2020  
 
   DL research in hight energy physics domain  
 
@@ -58,28 +60,28 @@
   
   Responsibilities: read & write scientific papers, conduct experiments, generate ideas, build AI pipelines  
 
-- SRE Intern, **Google Dublin**, 2019  
+- **SRE Intern**, **Google Dublin**, 2019  
 
   During my internship I developed large-scale hierarchical graph clustering algorithm for internal services graphs representations
 
-- Developer-researcher intern, **Yandex**, 2017  
+- **Developer-researcher intern**, **Yandex**, 2017  
 
   During my internship I applied RL ti different metrics to seq2seq vocalization task. Combined different seq2seq vocalization models using ideas from Actor-Mimic algorithm. Showed that RL could increase quality of seq2seq models. My bachelor's thesis was based on this work.
 
-## Публикации
+## Publications
 
 - **Adaptive divergence for rapid adversarial optimization** ([arxiv](https://arxiv.org/abs/1912.00520)), 2020 Maxim Borisyak, Tatiana Gaintseva, Andrey Ustyuzhanin, PeerJ Computer Science, 6, e274 
 
 - **Autoencoders for Compression and Simulation in Particle Physics** ([paper](https://drive.google.com/file/d/1r2nDhkQLCpk32thTj2u23bjaa07KH1-o/view)), 2020, In Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)
 
-## Преподавание
+## Academia
 
 - **2018-present**
 
   - [**Deep Learning School**](https://dlschool.org)
 
     Giving lectures on different deep learning topics.  
-    Videos of the lectures can be found here: <https://atmyre.github.io/ru/videos/#лекции>
+    Videos of the lectures can be found here: <https://atmyre.github.io/videos/#educational-videos>
 
 - **2019-present**
 
@@ -143,9 +145,23 @@
 
     Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
 
-## Публичные выступления
+## Public speeches
 
 - **2018**
+
   - [**A talk about 2nd place solution for Machines Can See competition**](https://youtu.be/zNTRmIoPLns)  
+
+    Machines Can See 2018 competition was about black-box adversarial attacks on images. Participants needed to build an algorithm which would change pictures so that they would become not recognizable by a given hidden network.
     - [Competition page](https://competitions.codalab.org/competitions/19090)  
     - [Solution code on GitHub](https://github.com/Atmyre/MCS2018_Solution)
+
+## Other projects
+- [**DLStories blog**](https://t.me/dl_stories) (in Russian)
+
+  DLStories is a blog about recent developments in AI in Telegram. I write about recent scientific papers, discoveries, new AI technology, about the impact that AI has on our social lives, etc. I also share educational materials and useful tools for AI researcher. 
+  
+- [**Deep Learning Stories Podcast**](https://deeplearningstories406433278.wordpress.com) (in Russian)
+
+  Deep Learning Stories is a podcast about different aspects of AI researcher profession. With different people related to AI research we talk about AI, our profession, interviews. There are also specific episodes about AI in medicine or quantum computers and AI in it.
+
+

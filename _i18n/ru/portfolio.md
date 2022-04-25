@@ -1,40 +1,40 @@
-Hello there! My name is Tania Gaintseva, I am a deep learning researcher. I also teach  ML/DL, write articles, host a podcast about deep learning and run a blog in Telegram. In blog I write about recent developments on AI.
+Привет! Меня зовут Таня Гайнцева, я исследователь в области глубокого обучения. Также я преподаю ML/DL, пишу статьи, пишу подкаст о разных аспектах DL research и веду блог DLStroies в телеграме, где рассказываю о новостях в области исследований ИИ.
 
-On this page all the information about me with all the relevant links is located.
+На этой странице собрана вся информация обо мне со ссылками.
 
-## Education
+## Образование
 
-- **M.Sc.**
+- **M.Sc. (степень магистра)**
 
-  - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
+  - [Московский Физико-Технический Институт (МФТИ)](https://mipt.ru/english/)
 
-    2017-2019, Moscow, Russian Federation
-    
-    Department of Innovations and High Technology,  
-    Data Analysis subdepartment.
+    2017-2019, Москва, Россия
 
-    Thesis title: Use of Domain Adaptation to expand the scope of Generative Models
+    Физтех-школа Прикладной Математики и Информатики (ФПМИ)  
+    Кафедра Анализа Данных.
 
-- **B.Sc.**
+    Тема диплома: Use of Domain Adaptation to expand the scope of Generative Models
 
-  - [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/)
+- **B.Sc. (степень бакалавра)**
 
-    2013-2017, Moscow, Russian Federation
+  - [Московский Физико-Технический Институт (МФТИ)](https://mipt.ru/english/)
 
-    Department of Innovations and High Technology,  
-    Data Analysis subdepartment.
+    2013-2017, Москва, Россия
 
-    Thesis title: Multi-Objective Deep Reinforcement Learning in Seq2Seq Machine
+    Физтех-школа Прикладной Математики и Информатики (ФПМИ, бывш. ФИВТ)  
+    Кафедра Анализа Данных.
+
+    Тема диплома: Multi-Objective Deep Reinforcement Learning in Seq2Seq Machine
     Translation
 
-- **Professional course**
+- **Дополнительные курсы**
 
-  - [Yandex School of Data Analysis (YSDA)](https://yandexdataschool.com)
+  - [Школа Анализа Данных Яндекса (ШАД)](https://yandexdataschool.com)
 
-    2016-2018, Moscow, Russian Federation  
-    Big Data department
+    2016-2018, Москва, Россия
+    Отделение Анализа Данных
 
-## Employment
+## Работа
 
 - Data & AI Scientist, [**Philips Innovation Labs RUS**](https://www.philips.ru/a-w/about-philips/research-moscow.html), 2021-present  
 
@@ -66,20 +66,20 @@ On this page all the information about me with all the relevant links is located
 
   During my internship I applied RL ti different metrics to seq2seq vocalization task. Combined different seq2seq vocalization models using ideas from Actor-Mimic algorithm. Showed that RL could increase quality of seq2seq models. My bachelor's thesis was based on this work.
 
-## Publications
+## Публикации
 
 - **Adaptive divergence for rapid adversarial optimization** ([arxiv](https://arxiv.org/abs/1912.00520)), 2020 Maxim Borisyak, Tatiana Gaintseva, Andrey Ustyuzhanin, PeerJ Computer Science, 6, e274 
 
 - **Autoencoders for Compression and Simulation in Particle Physics** ([paper](https://drive.google.com/file/d/1r2nDhkQLCpk32thTj2u23bjaa07KH1-o/view)), 2020, In Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)
 
-## Academia
+## Преподавание
 
 - **2018-present**
 
   - [**Deep Learning School**](https://dlschool.org)
 
     Giving lectures on different deep learning topics.  
-    Videos of the lectures can be found here: <https://atmyre.github.io/videos/#educational-videos>
+    Videos of the lectures can be found here: <https://atmyre.github.io/ru/videos/#лекции>
 
 - **2019-present**
 
@@ -143,14 +143,9 @@ On this page all the information about me with all the relevant links is located
 
     Teaching Sber manager employees different classes on machine learning, theory & practice. Videos are not available
 
-## Public speeches
+## Публичные выступления
 
 - **2018**
-
   - [**A talk about 2nd place solution for Machines Can See competition**](https://youtu.be/zNTRmIoPLns)  
-
-    Machines Can See 2018 competition was about black-box adversarial attacks on images. Participants needed to build an algorithm which would change pictures so that they would become not recognizable by a given hidden network.
     - [Competition page](https://competitions.codalab.org/competitions/19090)  
     - [Solution code on GitHub](https://github.com/Atmyre/MCS2018_Solution)
-
-
