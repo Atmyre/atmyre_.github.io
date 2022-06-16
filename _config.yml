@@ -158,3 +158,13 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-5VPDX7B5JY"
+    
+comments:
+  provider: giscus
+  giscus:
+    repo_id: R_kgDOGqHZbQ
+    category_name: General
+    category_id: DIC_kwDOGqHZbc4CPtmv
+    discussion_term:
+    reactions_enabled:
+    theme:
