@@ -106,7 +106,7 @@ footer:
       url: "https://linkedin.com/in/tgaintseva"
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=pzVAnzsAAAAJ&hl=ru&authuser=1"
+      url: "https://scholar.google.com/citations?user=fYmtxNUAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/atmyre"
@@ -118,7 +118,7 @@ footer:
       url: "https://instagram.com/atmyre"
     - label: "Twitter"
       icon: "fab fa-twitter"
-      url: "https://twitter.com/atmyree"
+      url: "https://twitter.com/t_gaintseva"
 
 languages: ["en", "ru"]
 exclude_from_localizations: ["javascript", "images", "css"]
