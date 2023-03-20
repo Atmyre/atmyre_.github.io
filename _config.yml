@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Tatiana Gaintseva"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "AI researcher, Ph.D. at Digital Environment Research Institute, Queen Mary University of London teacher,<br />AI enthusiast & blogger"
+  bio    : "AI researcher, Ph.D. @  Digital Environment Research Institute, Queen Mary University of London<br /> Teacher, AI enthusiast & blogger"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -143,12 +143,12 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 
 collections:
   - podcasts
